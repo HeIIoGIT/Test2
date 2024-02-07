@@ -3,5 +3,5 @@ using namespace std;
 
 int main()
 {
-    cout<<"C++";
+    cout<<"Artëm LOX";
 }
