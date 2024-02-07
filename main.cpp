@@ -3,5 +3,5 @@ using namespace std;
 
 int main()
 {
-    cout<<"Artëm LOX";
+    open browser/find onlyfans nudes
 }
